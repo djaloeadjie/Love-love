@@ -1,6 +1,5 @@
 # Hai
 
-# Hai
 <!DOCTYPE html>
 <html>
   <head>
